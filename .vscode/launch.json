@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AlarmUpgradeDriver",
+            "request": "launch",
+            "mainClass": "AlarmUpgrade.AlarmUpgradeDriver",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch AlarmSetDriver",
+            "request": "launch",
+            "mainClass": "AlarmSet.AlarmSetDriver",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch SongUpgradeDriver",
+            "request": "launch",
+            "mainClass": "SongUpgrade.SongUpgradeDriver",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch SongInfoDriver",
+            "request": "launch",
+            "mainClass": "SongInfo.SongInfoDriver",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch UniversityString",
+            "request": "launch",
+            "mainClass": "UniversityString",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch BatAvg",
+            "request": "launch",
+            "mainClass": "BatAvg",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserProfileDriver",
+            "request": "launch",
+            "mainClass": "UserProfileDriver",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch YourObjectDriver",
+            "request": "launch",
+            "mainClass": "YourObjectDriver",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch AlarmSetDriver",
+            "request": "launch",
+            "mainClass": "AlarmSetDriver",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentDriver",
+            "request": "launch",
+            "mainClass": "StudentDriver",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch SongInfoDriver",
+            "request": "launch",
+            "mainClass": "SongInfoDriver",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyPhone",
+            "request": "launch",
+            "mainClass": "MyPhone",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch AssignmenSoThatTheTestWillBeOnFriday",
+            "request": "launch",
+            "mainClass": "AssignmenSoThatTheTestWillBeOnFriday",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch SeatingChart",
+            "request": "launch",
+            "mainClass": "SeatingChart",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuadraticFormula",
+            "request": "launch",
+            "mainClass": "QuadraticFormula",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfStatements",
+            "request": "launch",
+            "mainClass": "IfStatements",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch Random50",
+            "request": "launch",
+            "mainClass": "Random50",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForRandom",
+            "request": "launch",
+            "mainClass": "ForRandom",
+            "projectName": "compsci_7ad08088"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch GUILogin",
+            "request": "launch",
+            "mainClass": "GUILogin",
+            "projectName": "compsci_7ad08088"
+        }
+    ]
+}
