@@ -2,6 +2,3 @@
 
 *.class
 
-FrogSimulation/node_modules
-FrogSimulation/package-lock.json
-FrogSimulation/package.json
