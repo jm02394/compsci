@@ -14,6 +14,6 @@ public class SystemLogDriver {
                 new LogMessage("Webserver:error on /dev/disk "))));
 
         System.out.println(theLog.toString());
-        System.out.println(new SystemLog(new ArrayList<>(theLog.removeMessages("disk"))).toString());
+        System.out.println(new SystemLog(new ArrayList<>(theLog.removeMessages("disk"))));
     }
 }

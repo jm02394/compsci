@@ -25,7 +25,7 @@ public class SystemLog {
         String out = "";
 
         for (LogMessage m : this.messageList) {
-            out += m.toString() + "\n";
+            out += m + "\n";
         }
 
         return out;
