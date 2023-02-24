@@ -1,5 +1,3 @@
-package Add15;
-
 public class Add15 {
     public static void main(String[] args) {
         int[][] arr = new int[3][5];
